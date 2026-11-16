@@ -37,6 +37,23 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "eb71bdd2-46f0-43f1-bf03-b08a3ae1c593"
+      }
+    },
+    "owner": "mateusjoses-team",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/eb71bdd2-46f0-43f1-bf03-b08a3ae1c593"
     }
   }
 }
